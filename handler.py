@@ -1,5 +1,4 @@
 import json
-import pyjokes
 
 
 def get_joke(event, context):
